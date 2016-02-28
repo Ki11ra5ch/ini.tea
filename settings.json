@@ -1,0 +1,74 @@
+{
+	"atom-beautify": {
+		"_analyticsUserId": "6c4a10b1-9ea7-4fa3-89c9-885dfe31628d"
+	},
+	"autosave": {
+		"enabled": true
+	},
+	"core": {
+		"autoHideMenuBar": true,
+		"disabledPackages": [
+			"wrap-guide"
+		],
+		"projectHome": "/home/psylone/development/projects/atom",
+		"themes": [
+			"one-dark-ui",
+			"afterglow-plus"
+		]
+	},
+	"ctrl-dir-scroll": {},
+	"editor": {
+		"fontSize": 15,
+		"invisibles": {},
+		"scrollPastEnd": true,
+		"showIndentGuide": true,
+		"showInvisibles": true,
+		"softWrap": true
+	},
+	"exception-reporting": {
+		"userId": "c3052cc0-f027-e711-315f-7064b08d8981"
+	},
+	"file-icons": {},
+	"find-and-replace": {},
+	"fuzzy-finder": {
+		"useAlternateScoring": true
+	},
+	"gist-it": {
+		"openAfterCreate": true
+	},
+	"git-blame": {},
+	"git-plus": {
+		"openInPane": false
+	},
+	"go-plus": {
+		"formatOnSave": false,
+		"formatTool": "gofmt",
+		"getMissingTools": false,
+		"goPath": "/usr/local/go",
+		"lintOnSave": false,
+		"showPanel": false,
+		"syntaxCheckOnSave": false,
+		"vetOnSave": false
+	},
+	"highlight-selected": {},
+	"isotope-ui": {},
+	"one-dark-ui": {},
+	"open-recent": {},
+	"project-manager": {
+		"sortBy": "title"
+	},
+	"rspec": {
+		"command": "rspec"
+	},
+	"status-bar": {},
+	"tabs": {
+		"usePreviewTabs": true
+	},
+	"tree-view": {
+		"showOnRightSide": true
+	},
+	"welcome": {
+		"showOnStartup": false
+	},
+	"whitespace": {}
+}
